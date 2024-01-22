@@ -1,0 +1,113 @@
+Timestamp,What Grade do you have in PF?,What Grade do you have in OOPs?,Your intermediate percentage?,Did you have any prior programming knowledge before starting your Bachelors?,Are you involved in any part-time job or freelancing?,Are you involved in any extracurricular activities? (sports or other hobbies),Do you take any programming courses other than the university?,How much time per week are you putting into studying?,What is your bedtime?,Bachelor's Program,Gender,How frequently do you use your social media platforms?,Are you part of any society?,"On a scale of 1 to 5, how much would you rate your programming skills?",Are you a:
+11/26/2023 21:18:02,A-,B+,71% - 80%,Yes,No,Yes,No,0 - 4 hours,11:00 PM,Data Sciences,Male,2,Yes,3,Day Scholar
+11/26/2023 21:25:10,A,B+,71% - 80%,Yes,No,Yes,Yes,0 - 4 hours,11:00 PM,Data Sciences,Male,3,Yes,4,Day Scholar
+11/26/2023 21:25:30,C+,C+,81% - 90%,No,No,No,No,8-12 hours,11:00 PM,Data Sciences,Female,3,Yes,2,Hostelite
+11/26/2023 21:25:53,A,A,71% - 80%,Yes,Yes,Yes,No,0 - 4 hours,1:00 AM,Data Sciences,Male,5,Yes,3,Day Scholar
+11/26/2023 21:26:06,B-,B,81% - 90%,No,No,Yes,No,0 - 4 hours,11:00 PM,Data Sciences,Female,5,Yes,3,Day Scholar
+11/26/2023 21:26:46,B+,B,71% - 80%,Yes,Yes,No,No,0 - 4 hours,12:00 AM,Data Sciences,Male,5,Yes,4,Day Scholar
+11/26/2023 21:27:29,B+,A-,81% - 90%,Yes,No,No,No,4-8 hours,11:00 PM,Data Sciences,Female,5,Yes,4,Hostelite
+11/26/2023 21:30:38,B-,A-,71% - 80%,Yes,No,Yes,Yes,4-8 hours,12:00 AM,Data Sciences,Male,5,Yes,3,Day Scholar
+11/26/2023 21:30:50,B,B,81% - 90%,Yes,Yes,No,No,8-12 hours,10:00 PM,Data Sciences,Male,4,No,4,Hostelite
+11/26/2023 21:30:50,B,B+,71% - 80%,No,No,No,No,0 - 4 hours,1:00 AM,Data Sciences,Male,3,No,4,Day Scholar
+11/26/2023 21:31:20,B+,B+,81% - 90%,No,Yes,No,No,4-8 hours,1:00 AM,Data Sciences,Female,3,Yes,3,Day Scholar
+11/26/2023 21:33:31,C+,B-,81% - 90%,No,No,Yes,Yes,8-12 hours,12:00 AM,Data Sciences,Female,3,Yes,3,Day Scholar
+11/26/2023 21:36:42,A,A,71% - 80%,Yes,No,Yes,Yes,0 - 4 hours,12:00 AM,Computer Sciences,Male,1,Yes,3,Day Scholar
+11/26/2023 21:38:06,B+,B+,71% - 80%,No,No,Yes,Yes,0 - 4 hours,12:00 AM,Artificial Intelligence,Male,4,Yes,2,Hostelite
+11/26/2023 21:38:56,B+,B,71% - 80%,Yes,No,Yes,No,4-8 hours,12:00 AM,Artificial Intelligence,Male,5,Yes,2,Hostelite
+11/26/2023 21:38:58,A-,B+,61% - 70%,Yes,No,Yes,No,8-12 hours,11:00 PM,Data Sciences,Female,3,Yes,4,Hostelite
+11/26/2023 21:39:15,A-,B,71% - 80%,Yes,Yes,Yes,No,0 - 4 hours,1:00 AM,Gaming and Multimedia,Female,5,Yes,3,Day Scholar
+11/26/2023 21:39:28,A,A,91% - 99%,No,Yes,Yes,No,More than 20 hours (Are you okay?),1:00 AM,Cyber Security,Male,1,Yes,4,Hostelite
+11/26/2023 21:41:07,B-,B-,91% - 99%,No,Yes,No,No,4-8 hours,11:00 PM,Data Sciences,Male,4,No,3,Hostelite
+11/26/2023 21:42:01,B-,B-,81% - 90%,No,No,No,No,0 - 4 hours,11:00 PM,Data Sciences,Male,4,Yes,2,Day Scholar
+11/26/2023 21:43:31,A,A-,91% - 99%,Yes,No,Yes,Yes,16-20 hours,12:00 AM,Software Engineering,Female,3,Yes,3,Hostelite
+11/26/2023 21:45:19,C,C+,61% - 70%,No,No,No,No,4-8 hours,9:00 PM,Data Sciences,Male,4,No,3,Hostelite
+11/26/2023 21:47:21,B+,A,81% - 90%,No,No,No,Yes,4-8 hours,12:00 AM,Artificial Intelligence,Male,3,Yes,3,Hostelite
+11/26/2023 21:53:39,C,D,51% - 60%,No,No,No,No,0 - 4 hours,1:00 AM,Gaming and Multimedia,Female,3,No,1,Day Scholar
+11/26/2023 21:54:09,C+,C-,71% - 80%,Yes,No,Yes,No,4-8 hours,12:00 AM,Gaming and Multimedia,Female,5,No,2,Day Scholar
+11/26/2023 21:54:31,B+,A-,81% - 90%,No,No,Yes,Yes,8-12 hours,1:00 AM,Computer Sciences,Male,3,Yes,3,Day Scholar
+11/26/2023 21:55:28,A-,A-,91% - 99%,Yes,No,Yes,Yes,12-16 hours,12:00 AM,Computer Sciences,Male,3,No,3,Day Scholar
+11/26/2023 21:56:22,B+,C,81% - 90%,No,No,No,No,4-8 hours,10:00 PM,Gaming and Multimedia,Female,4,No,3,Day Scholar
+11/26/2023 22:00:00,A,A,61% - 70%,Yes,Yes,Yes,No,0 - 4 hours,1:00 AM,Data Sciences,Male,2,Yes,3,Day Scholar
+11/26/2023 22:04:31,C+,D,71% - 80%,Yes,No,No,No,8-12 hours,12:00 AM,Computer Sciences,Female,4,Yes,3,Day Scholar
+11/26/2023 22:10:48,B+,B,61% - 70%,Yes,No,No,No,0 - 4 hours,10:00 PM,Gaming and Multimedia,Female,5,No,3,Day Scholar
+11/26/2023 22:12:06,A-,A,71% - 80%,Yes,No,No,Yes,8-12 hours,12:00 AM,Information Technology,Female,3,No,3,Day Scholar
+11/26/2023 22:17:01,A,A,61% - 70%,No,No,Yes,No,0 - 4 hours,12:00 AM,Computer Sciences,Male,2,Yes,4,Day Scholar
+11/26/2023 22:17:11,B+,B+,81% - 90%,No,No,No,No,16-20 hours,8:00 PM,Gaming and Multimedia,Male,3,No,3,Hostelite
+11/26/2023 22:21:27,A,A,61% - 70%,No,No,Yes,Yes,8-12 hours,12:00 AM,Computer Sciences,Male,4,Yes,4,Day Scholar
+11/26/2023 22:25:47,B+,B+,61% - 70%,Yes,Yes,No,Yes,8-12 hours,1:00 AM,Information Technology,Male,3,Yes,4,Hostelite
+11/26/2023 22:29:39,A,A-,81% - 90%,Yes,Yes,Yes,Yes,0 - 4 hours,1:00 AM,Computer Sciences,Female,5,Yes,5,Hostelite
+11/26/2023 22:33:28,A-,A,71% - 80%,No,No,Yes,No,8-12 hours,12:00 AM,Information Technology,Male,3,No,5,Day Scholar
+11/26/2023 22:41:10,B+,B-,81% - 90%,No,No,Yes,No,12-16 hours,12:00 AM,Computer Sciences,Male,5,Yes,3,Day Scholar
+11/26/2023 22:41:38,C-,A,91% - 99%,No,No,No,No,8-12 hours,12:00 AM,Computer Sciences,Male,3,No,2,Hostelite
+11/26/2023 22:45:41,B+,B+,81% - 90%,No,No,No,Yes,12-16 hours,1:00 AM,Computer Sciences,Male,5,Yes,4,Hostelite
+11/26/2023 22:46:20,B,B+,71% - 80%,No,No,No,No,0 - 4 hours,11:00 PM,Computer Sciences,Male,5,No,1,Day Scholar
+11/26/2023 22:50:58,C+,C+,71% - 80%,No,No,No,No,4-8 hours,1:00 AM,Computer Sciences,Male,5,No,2,Hostelite
+11/26/2023 22:53:29,A-,B-,71% - 80%,No,No,No,Yes,4-8 hours,1:00 AM,Gaming and Multimedia,Male,5,No,2,Hostelite
+11/26/2023 22:58:26,A-,A-,71% - 80%,Yes,No,Yes,Yes,0 - 4 hours,10:00 PM,Information Technology,Male,2,Yes,3,Day Scholar
+11/26/2023 23:01:14,A-,A,71% - 80%,Yes,No,Yes,Yes,8-12 hours,1:00 AM,Information Technology,Female,1,Yes,5,Day Scholar
+11/26/2023 23:47:31,B-,D,81% - 90%,No,No,No,No,8-12 hours,12:00 AM,Gaming and Multimedia,Female,3,No,3,Day Scholar
+11/26/2023 23:56:00,C+,C+,81% - 90%,Yes,No,No,No,4-8 hours,12:00 AM,Computer Sciences,Male,5,No,3,Day Scholar
+11/27/2023 0:02:46,B-,B,91% - 99%,No,No,Yes,No,8-12 hours,12:00 AM,Artificial Intelligence,Female,4,Yes,3,Hostelite
+11/27/2023 0:12:28,B-,B-,61% - 70%,Yes,No,No,No,0 - 4 hours,12:00 AM,Data Sciences,Male,5,Yes,3,Day Scholar
+11/27/2023 0:25:41,A,B+,81% - 90%,Yes,No,Yes,Yes,12-16 hours,1:00 AM,Computer Sciences,Male,3,No,4,Hostelite
+11/27/2023 0:41:40,A-,B+,91% - 99%,No,Yes,Yes,Yes,8-12 hours,1:00 AM,Information Technology,Male,4,No,3,Day Scholar
+11/27/2023 2:20:48,A,A,91% - 99%,Yes,No,No,No,0 - 4 hours,1:00 AM,Computer Sciences,Male,5,No,1,Day Scholar
+11/27/2023 2:26:49,B-,D,71% - 80%,No,No,Yes,No,12-16 hours,12:00 AM,Gaming and Multimedia,Male,4,Yes,3,Day Scholar
+11/27/2023 5:45:32,B+,A,91% - 99%,No,Yes,No,No,0 - 4 hours,11:00 PM,Data Sciences,Male,5,No,3,Day Scholar
+11/27/2023 6:04:27,B-,B+,81% - 90%,Yes,Yes,Yes,Yes,0 - 4 hours,10:00 PM,Artificial Intelligence,Male,1,Yes,4,Day Scholar
+11/27/2023 7:51:56,D,B+,81% - 90%,No,No,No,No,0 - 4 hours,10:00 PM,Computer Sciences,Female,3,No,2,Day Scholar
+11/27/2023 8:08:47,A-,A,71% - 80%,Yes,No,Yes,No,4-8 hours,11:00 PM,Data Sciences,Male,5,Yes,5,Day Scholar
+11/27/2023 8:14:44,A-,A,81% - 90%,No,Yes,No,No,0 - 4 hours,11:00 PM,Data Sciences,Male,4,Yes,3,Day Scholar
+11/27/2023 8:20:13,C,A,61% - 70%,Yes,No,No,Yes,4-8 hours,10:00 PM,Computer Sciences,Male,3,No,4,Day Scholar
+11/27/2023 8:34:24,C,C+,81% - 90%,No,No,No,No,4-8 hours,12:00 AM,Computer Sciences,Female,4,No,2,Day Scholar
+11/27/2023 9:11:27,B,B,81% - 90%,Yes,No,No,No,0 - 4 hours,10:00 PM,Computer Sciences,Female,3,Yes,3,Day Scholar
+11/27/2023 9:24:32,A,A-,81% - 90%,Yes,No,Yes,Yes,8-12 hours,1:00 AM,Data Sciences,Male,3,No,5,Hostelite
+11/27/2023 9:45:06,C+,B,71% - 80%,Yes,No,Yes,No,4-8 hours,12:00 AM,Data Sciences,Male,3,Yes,3,Day Scholar
+11/27/2023 11:28:16,C+,B-,81% - 90%,No,No,Yes,No,0 - 4 hours,11:00 PM,Computer Sciences,Male,5,No,3,Day Scholar
+11/27/2023 12:30:02,C-,B-,71% - 80%,No,No,No,No,0 - 4 hours,1:00 AM,Information Technology,Female,5,No,2,Day Scholar
+11/27/2023 18:01:51,B,C,71% - 80%,Yes,No,Yes,Yes,8-12 hours,11:00 PM,Data Sciences,Female,3,Yes,2,Hostelite
+11/27/2023 19:30:10,C+,B+,71% - 80%,Yes,No,Yes,Yes,0 - 4 hours,12:00 AM,Artificial Intelligence,Male,4,Yes,2,Day Scholar
+11/27/2023 20:30:32,C-,B-,71% - 80%,No,No,Yes,No,12-16 hours,12:00 AM,Data Sciences,Male,3,No,3,Day Scholar
+11/27/2023 23:54:01,B+,A,91% - 99%,No,No,Yes,No,4-8 hours,1:00 AM,Artificial Intelligence,Female,3,No,3,Hostelite
+11/28/2023 8:46:33,B+,B,81% - 90%,No,No,Yes,Yes,8-12 hours,8:00 PM,Artificial Intelligence,Female,3,Yes,3,Day Scholar
+11/28/2023 10:47:27,C,B-,61% - 70%,No,No,No,No,0 - 4 hours,11:00 PM,Data Sciences,Female,5,Yes,1,Day Scholar
+11/28/2023 11:54:16,D,A,61% - 70%,No,No,No,No,0 - 4 hours,1:00 AM,Data Sciences,Male,1,No,1,Hostelite
+11/28/2023 11:55:43,B+,A,91% - 99%,Yes,No,Yes,Yes,0 - 4 hours,12:00 AM,Software Engineering,Male,2,Yes,4,Hostelite
+11/28/2023 11:58:46,B,B,91% - 99%,Yes,No,No,No,8-12 hours,1:00 AM,Data Sciences,Female,4,No,3,Day Scholar
+11/28/2023 16:57:29,B,B,81% - 90%,Yes,No,No,No,0 - 4 hours,11:00 PM,Data Sciences,Female,4,No,4,Day Scholar
+11/28/2023 17:20:02,A,A,91% - 99%,No,No,No,No,16-20 hours,11:00 PM,Computer Sciences,Male,5,Yes,1,Hostelite
+11/28/2023 18:18:52,C+,B,81% - 90%,Yes,No,Yes,No,0 - 4 hours,12:00 AM,Data Sciences,Male,5,Yes,4,Hostelite
+11/28/2023 18:26:26,C,B,71% - 80%,No,No,Yes,No,8-12 hours,12:00 AM,Data Sciences,Male,3,No,3,Day Scholar
+11/28/2023 18:33:47,B+,B,71% - 80%,No,No,Yes,No,8-12 hours,11:00 PM,Data Sciences,Male,5,Yes,3,Hostelite
+11/28/2023 18:36:51,C+,C+,81% - 90%,No,Yes,No,No,4-8 hours,11:00 PM,Data Sciences,Male,5,No,2,Day Scholar
+11/28/2023 19:58:17,A-,A-,81% - 90%,No,No,Yes,No,4-8 hours,10:00 PM,Artificial Intelligence,Male,5,Yes,2,Day Scholar
+11/28/2023 20:00:56,A-,A,61% - 70%,No,No,Yes,No,0 - 4 hours,11:00 PM,Artificial Intelligence,Female,3,No,2,Day Scholar
+11/28/2023 20:03:32,A-,A-,71% - 80%,No,No,Yes,Yes,8-12 hours,8:00 PM,Artificial Intelligence,Male,3,Yes,3,Hostelite
+11/28/2023 20:12:28,B+,B-,81% - 90%,No,No,No,No,0 - 4 hours,1:00 AM,Artificial Intelligence,Female,5,No,1,Day Scholar
+11/28/2023 20:16:49,B+,B+,81% - 90%,Yes,No,Yes,No,4-8 hours,9:00 PM,Artificial Intelligence,Female,5,No,2,Hostelite
+11/28/2023 20:24:01,B,B,81% - 90%,No,No,No,No,8-12 hours,11:00 PM,Artificial Intelligence,Male,3,No,3,Hostelite
+11/28/2023 20:36:48,B,B+,81% - 90%,No,No,No,No,8-12 hours,12:00 AM,Software Engineering,Female,5,No,3,Day Scholar
+11/28/2023 21:15:20,A-,A,81% - 90%,No,Yes,Yes,No,4-8 hours,12:00 AM,Cyber Security,Male,3,No,3,Hostelite
+11/28/2023 21:23:00,A,B,71% - 80%,No,No,Yes,No,0 - 4 hours,11:00 PM,Data Sciences,Male,3,Yes,3,Day Scholar
+11/28/2023 21:36:06,B+,B+,81% - 90%,No,Yes,Yes,No,8-12 hours,1:00 AM,Artificial Intelligence,Female,4,No,4,Day Scholar
+11/28/2023 21:45:12,A,A,91% - 99%,No,No,Yes,Yes,0 - 4 hours,1:00 AM,Cyber Security,Male,4,No,4,Hostelite
+11/28/2023 22:11:13,C,C+,81% - 90%,No,No,No,No,4-8 hours,12:00 AM,Computer Sciences,Male,5,Yes,1,Hostelite
+11/28/2023 22:37:24,B+,B,71% - 80%,Yes,No,No,No,4-8 hours,12:00 AM,Computer Sciences,Female,3,Yes,3,Day Scholar
+11/28/2023 22:52:37,B,A-,61% - 70%,No,Yes,No,No,0 - 4 hours,11:00 PM,Cyber Security,Male,5,Yes,4,Hostelite
+11/28/2023 23:48:10,B-,B-,81% - 90%,Yes,No,Yes,No,12-16 hours,1:00 AM,Artificial Intelligence,Female,5,Yes,4,Day Scholar
+11/29/2023 7:03:27,A-,A-,81% - 90%,Yes,No,Yes,No,0 - 4 hours,12:00 AM,Cyber Security,Male,5,Yes,4,Hostelite
+11/29/2023 10:26:55,B-,B+,81% - 90%,Yes,No,Yes,Yes,4-8 hours,10:00 PM,Computer Sciences,Male,4,Yes,4,Hostelite
+11/29/2023 10:45:40,B-,B+,81% - 90%,No,No,Yes,Yes,0 - 4 hours,11:00 PM,Computer Sciences,Male,3,Yes,3,Day Scholar
+11/29/2023 12:21:53,A,A,71% - 80%,Yes,Yes,No,No,0 - 4 hours,1:00 AM,Computer Sciences,Male,2,Yes,5,Day Scholar
+11/29/2023 21:24:09,B+,A-,71% - 80%,No,Yes,Yes,No,16-20 hours,1:00 AM,Computer Sciences,Male,2,Yes,3,Hostelite
+11/30/2023 15:54:29,C+,C+,81% - 90%,No,No,No,Yes,0 - 4 hours,1:00 AM,Software Engineering,Male,4,No,2,Hostelite
+12/2/2023 10:38:56,B-,A-,91% - 99%,No,Yes,No,Yes,0 - 4 hours,10:00 PM,Computer Sciences,Male,4,No,3,Day Scholar
+12/2/2023 10:42:17,A-,B+,71% - 80%,No,No,Yes,Yes,4-8 hours,1:00 AM,Computer Sciences,Male,5,Yes,3,Hostelite
+12/2/2023 10:53:12,B,B,71% - 80%,No,No,No,No,0 - 4 hours,11:00 PM,Computer Sciences,Male,5,No,3,Day Scholar
+12/2/2023 10:54:09,B,B,81% - 90%,No,No,No,Yes,0 - 4 hours,10:00 PM,Computer Sciences,Male,3,No,3,Hostelite
+12/2/2023 10:57:36,B,B,91% - 99%,No,No,Yes,No,8-12 hours,1:00 AM,Computer Sciences,Female,4,Yes,3,Hostelite
+12/2/2023 11:42:29,A-,A,91% - 99%,Yes,No,Yes,No,4-8 hours,12:00 AM,Computer Sciences,Female,5,Yes,3,Day Scholar
+12/2/2023 13:44:33,C+,B,71% - 80%,No,No,Yes,No,0 - 4 hours,9:00 PM,Computer Sciences,Female,2,No,2,Day Scholar
+12/5/2023 18:05:20,C,C+,71% - 80%,No,No,Yes,No,12-16 hours,11:00 PM,Data Sciences,Female,5,Yes,3,Hostelite
+12/5/2023 18:28:21,B+,A-,81% - 90%,Yes,No,No,No,0 - 4 hours,11:00 PM,Data Sciences,Female,4,Yes,4,Day Scholar
+12/7/2023 7:19:14,B+,B+,61% - 70%,No,No,No,No,0 - 4 hours,9:00 PM,Software Engineering,Female,1,Yes,4,Hostelite
